@@ -1,0 +1,19 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+a.out
+output.log
+
+# Compiled executables (without extension)
+sorting_algorithms/bubble_sort
+sorting_algorithms/selection_sort
+sorting_algorithms/insertion_sort
+sorting_algorithms/merge_sort
+sorting_algorithms/quick_sort
+sorting_algorithms/heap_sort
+sorting_algorithms/shell_sort
+sorting_algorithms/counting_sort
+sorting_algorithms/radix_sort
+sorting_algorithms/bucket_sort
+sorting_algorithms/randomized_quick_sort
