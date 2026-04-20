@@ -1,4 +1,4 @@
-# Sorting Algorithms Benchmarking(DAA Practical Assignment)
+# Sorting Algorithms Analysis(DAA Practical Assignment)
 
 
 ## Authors
