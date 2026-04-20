@@ -265,7 +265,7 @@ Data structure: Array
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-repo/Sorting-algorithms-benchmark.git # Replace with actual repo URL
+    git clone https://github.com/saijishnup/Sorting-Algorithms-Analysis.git # Replace with actual repo URL
     cd Sorting-algorithms-benchmark
     ```
 2.  **Install Python dependencies:**
