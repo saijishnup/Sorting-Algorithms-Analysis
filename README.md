@@ -300,7 +300,3 @@ After running the benchmark, the following outputs are generated:
 • CSV tables containing all benchmark results  
 
 These outputs are stored inside the `graphs/` directory.
-
-## 6. Contact Information
-
-For any inquiries, please contact: kowndinyamarepalli2007@gmail.com
