@@ -84,9 +84,9 @@ The experimental setup is designed to provide stable and comparable performance 
 ### 3.1. Machine Specifications
 
 *   **Operating System:** Windows 11
-*   **Model:** DELL G15 5530
-*   **Processor:** Intel Core i7-13650H
-*   **Graphics Card:** NVIDIA RTX 4050 Studio
+*   **Model:** HP EliteBook H9 640
+*   **Processor:** Intel Core i5-1245U, 12th Gen, 1.60 GHz
+*   **Graphics Card:** Intel UHD Graphics 128 MB
 
 
 ### 3.2. Timing Mechanism
